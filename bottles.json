@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-20",
+  "currency": "RUB",
+  "volumes": {
+    "2": [
+      {
+        "id": "bottle-2-01",
+        "title": "Стандартный флакон 2 мл",
+        "surcharge": 0,
+        "image": "",
+        "tildaValue": "Стандартный флакон 2 мл",
+        "isDefault": true,
+        "order": 1
+      }
+    ],
+    "5": [
+      {
+        "id": "bottle-5-01",
+        "title": "Стандартный флакон 5 мл",
+        "surcharge": 0,
+        "image": "",
+        "tildaValue": "Стандартный флакон 5 мл",
+        "isDefault": true,
+        "order": 1
+      },
+      {
+        "id": "bottle-5-02",
+        "title": "Тестовый платный флакон 5 мл",
+        "surcharge": 100,
+        "image": "",
+        "tildaValue": "Тестовый платный флакон 5 мл =+100",
+        "isDefault": false,
+        "order": 2
+      }
+    ],
+    "10": [
+      {
+        "id": "bottle-10-01",
+        "title": "Стандартный флакон 10 мл",
+        "surcharge": 0,
+        "image": "",
+        "tildaValue": "Стандартный флакон 10 мл",
+        "isDefault": true,
+        "order": 1
+      },
+      {
+        "id": "bottle-10-02",
+        "title": "Тестовый платный флакон 10 мл",
+        "surcharge": 150,
+        "image": "",
+        "tildaValue": "Тестовый платный флакон 10 мл =+150",
+        "isDefault": false,
+        "order": 2
+      }
+    ]
+  }
+}
