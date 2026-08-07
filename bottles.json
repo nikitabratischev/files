@@ -9,11 +9,11 @@
         "category": "Базовые",
         "title": "Прозрачный с золотым колпачком",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-2-01.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-2-01.webp",
         "tildaValue": "Прозрачный с золотым колпачком",
         "isDefault": true,
         "order": 1,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-2-01.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-2-01.webp"
       }
     ],
     "5": [
@@ -22,99 +22,99 @@
         "category": "Базовые",
         "title": "Белый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-5-01.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-5-01.webp",
         "tildaValue": "Белый",
         "isDefault": true,
         "order": 1,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-5-01.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-5-01.webp"
       },
       {
         "id": "bottle-5-02",
         "category": "Базовые",
         "title": "Жёлтый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-5-02.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-5-02.webp",
         "tildaValue": "Жёлтый",
         "isDefault": false,
         "order": 2,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-5-02.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-5-02.webp"
       },
       {
         "id": "bottle-5-03",
         "category": "Базовые",
         "title": "Зелёный",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-5-03.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-5-03.webp",
         "tildaValue": "Зелёный",
         "isDefault": false,
         "order": 3,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-5-03.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-5-03.webp"
       },
       {
         "id": "bottle-5-04",
         "category": "Базовые",
         "title": "Красный",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-5-04.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-5-04.webp",
         "tildaValue": "Красный",
         "isDefault": false,
         "order": 4,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-5-04.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-5-04.webp"
       },
       {
         "id": "bottle-5-05",
         "category": "Базовые",
         "title": "Фиолетовый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-5-05.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-5-05.webp",
         "tildaValue": "Фиолетовый",
         "isDefault": false,
         "order": 5,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-5-05.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-5-05.webp"
       },
       {
         "id": "bottle-5-06",
         "category": "Вращающиеся",
         "title": "Металический голубой",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-5-06.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-5-06.webp",
         "tildaValue": "Металический голубой",
         "isDefault": false,
         "order": 6,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-5-06.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-5-06.webp"
       },
       {
         "id": "bottle-5-07",
         "category": "С колпачком",
         "title": "Красный",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-5-07.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-5-07.webp",
         "tildaValue": "Красный",
         "isDefault": false,
         "order": 7,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-5-07.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-5-07.webp"
       },
       {
         "id": "bottle-5-08",
         "category": "С колпачком",
         "title": "Серо-коричневый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-5-08.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-5-08.webp",
         "tildaValue": "Серо-коричневый",
         "isDefault": false,
         "order": 8,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-5-08.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-5-08.webp"
       },
       {
         "id": "bottle-5-09",
         "category": "С колпачком",
         "title": "Синий",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-5-09.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-5-09.webp",
         "tildaValue": "Синий",
         "isDefault": false,
         "order": 9,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-5-09.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-5-09.webp"
       }
     ],
     "10": [
@@ -123,517 +123,517 @@
         "category": "Базовые",
         "title": "Белый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-01.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-01.webp",
         "tildaValue": "Белый",
         "isDefault": true,
         "order": 1,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-01.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-01.webp"
       },
       {
         "id": "bottle-10-02",
         "category": "Базовые",
         "title": "Болотный",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-02.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-02.webp",
         "tildaValue": "Болотный",
         "isDefault": false,
         "order": 2,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-02.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-02.webp"
       },
       {
         "id": "bottle-10-03",
         "category": "Базовые",
         "title": "Жёлтый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-03.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-03.webp",
         "tildaValue": "Жёлтый",
         "isDefault": false,
         "order": 3,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-03.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-03.webp"
       },
       {
         "id": "bottle-10-04",
         "category": "Базовые",
         "title": "Зелёный",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-04.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-04.webp",
         "tildaValue": "Зелёный",
         "isDefault": false,
         "order": 4,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-04.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-04.webp"
       },
       {
         "id": "bottle-10-05",
         "category": "Базовые",
         "title": "Коричневый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-05.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-05.webp",
         "tildaValue": "Коричневый",
         "isDefault": false,
         "order": 5,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-05.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-05.webp"
       },
       {
         "id": "bottle-10-06",
         "category": "Базовые",
         "title": "Нежно-голубой",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-06.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-06.webp",
         "tildaValue": "Нежно-голубой",
         "isDefault": false,
         "order": 6,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-06.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-06.webp"
       },
       {
         "id": "bottle-10-07",
         "category": "Базовые",
         "title": "Сиреневый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-07.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-07.webp",
         "tildaValue": "Сиреневый",
         "isDefault": false,
         "order": 7,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-07.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-07.webp"
       },
       {
         "id": "bottle-10-08",
         "category": "Базовые",
         "title": "Фиолетовый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-08.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-08.webp",
         "tildaValue": "Фиолетовый",
         "isDefault": false,
         "order": 8,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-08.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-08.webp"
       },
       {
         "id": "bottle-10-09",
         "category": "Кожа",
         "title": "Белый дракон",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-09.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-09.webp",
         "tildaValue": "Белый дракон",
         "isDefault": false,
         "order": 9,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-09.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-09.webp"
       },
       {
         "id": "bottle-10-10",
         "category": "Кожа",
         "title": "Белый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-10.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-10.webp",
         "tildaValue": "Белый",
         "isDefault": false,
         "order": 10,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-10.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-10.webp"
       },
       {
         "id": "bottle-10-11",
         "category": "Кожа",
         "title": "Жар-птица",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-11.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-11.webp",
         "tildaValue": "Жар-птица",
         "isDefault": false,
         "order": 11,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-11.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-11.webp"
       },
       {
         "id": "bottle-10-12",
         "category": "Кожа",
         "title": "Журавль",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-12.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-12.webp",
         "tildaValue": "Журавль",
         "isDefault": false,
         "order": 12,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-12.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-12.webp"
       },
       {
         "id": "bottle-10-13",
         "category": "Кожа",
         "title": "Зелёные птицы",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-13.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-13.webp",
         "tildaValue": "Зелёные птицы",
         "isDefault": false,
         "order": 13,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-13.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-13.webp"
       },
       {
         "id": "bottle-10-14",
         "category": "Кожа",
         "title": "Зелёный",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-14.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-14.webp",
         "tildaValue": "Зелёный",
         "isDefault": false,
         "order": 14,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-14.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-14.webp"
       },
       {
         "id": "bottle-10-15",
         "category": "Кожа",
         "title": "Коричневый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-15.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-15.webp",
         "tildaValue": "Коричневый",
         "isDefault": false,
         "order": 15,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-15.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-15.webp"
       },
       {
         "id": "bottle-10-16",
         "category": "Кожа",
         "title": "Красная птица",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-16.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-16.webp",
         "tildaValue": "Красная птица",
         "isDefault": false,
         "order": 16,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-16.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-16.webp"
       },
       {
         "id": "bottle-10-17",
         "category": "Кожа",
         "title": "Красный дракон",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-17.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-17.webp",
         "tildaValue": "Красный дракон",
         "isDefault": false,
         "order": 17,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-17.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-17.webp"
       },
       {
         "id": "bottle-10-18",
         "category": "Кожа",
         "title": "Ландыши Белый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-18.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-18.webp",
         "tildaValue": "Ландыши Белый",
         "isDefault": false,
         "order": 18,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-18.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-18.webp"
       },
       {
         "id": "bottle-10-19",
         "category": "Кожа",
         "title": "Ландыши Красный",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-19.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-19.webp",
         "tildaValue": "Ландыши Красный",
         "isDefault": false,
         "order": 19,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-19.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-19.webp"
       },
       {
         "id": "bottle-10-20",
         "category": "Кожа",
         "title": "Леопард",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-20.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-20.webp",
         "tildaValue": "Леопард",
         "isDefault": false,
         "order": 20,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-20.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-20.webp"
       },
       {
         "id": "bottle-10-21",
         "category": "Кожа",
         "title": "Облака",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-21.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-21.webp",
         "tildaValue": "Облака",
         "isDefault": false,
         "order": 21,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-21.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-21.webp"
       },
       {
         "id": "bottle-10-22",
         "category": "Кожа",
         "title": "Огурцы",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-22.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-22.webp",
         "tildaValue": "Огурцы",
         "isDefault": false,
         "order": 22,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-22.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-22.webp"
       },
       {
         "id": "bottle-10-23",
         "category": "Кожа",
         "title": "Оливки",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-23.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-23.webp",
         "tildaValue": "Оливки",
         "isDefault": false,
         "order": 23,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-23.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-23.webp"
       },
       {
         "id": "bottle-10-24",
         "category": "Кожа",
         "title": "Папоротник",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-24.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-24.webp",
         "tildaValue": "Папоротник",
         "isDefault": false,
         "order": 24,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-24.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-24.webp"
       },
       {
         "id": "bottle-10-25",
         "category": "Кожа",
         "title": "Синяя птица",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-25.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-25.webp",
         "tildaValue": "Синяя птица",
         "isDefault": false,
         "order": 25,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-25.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-25.webp"
       },
       {
         "id": "bottle-10-26",
         "category": "Кожа",
         "title": "Снегири",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-26.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-26.webp",
         "tildaValue": "Снегири",
         "isDefault": false,
         "order": 26,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-26.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-26.webp"
       },
       {
         "id": "bottle-10-27",
         "category": "Кожа",
         "title": "Черепаха",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-27.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-27.webp",
         "tildaValue": "Черепаха",
         "isDefault": false,
         "order": 27,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-27.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-27.webp"
       },
       {
         "id": "bottle-10-28",
         "category": "Кожа",
         "title": "Чёрная птица",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-28.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-28.webp",
         "tildaValue": "Чёрная птица",
         "isDefault": false,
         "order": 28,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-28.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-28.webp"
       },
       {
         "id": "bottle-10-29",
         "category": "Кожа",
         "title": "Чёрные цветы",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-29.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-29.webp",
         "tildaValue": "Чёрные цветы",
         "isDefault": false,
         "order": 29,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-29.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-29.webp"
       },
       {
         "id": "bottle-10-30",
         "category": "Кожа",
         "title": "Чёрный с красными цветами",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-30.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-30.webp",
         "tildaValue": "Чёрный с красными цветами",
         "isDefault": false,
         "order": 30,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-30.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-30.webp"
       },
       {
         "id": "bottle-10-31",
         "category": "Вращающиеся",
         "title": "Градиентный берюзово-розовый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-31.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-31.webp",
         "tildaValue": "Градиентный берюзово-розовый",
         "isDefault": false,
         "order": 31,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-31.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-31.webp"
       },
       {
         "id": "bottle-10-32",
         "category": "Вращающиеся",
         "title": "Градиентный жёлто-розовый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-32.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-32.webp",
         "tildaValue": "Градиентный жёлто-розовый",
         "isDefault": false,
         "order": 32,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-32.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-32.webp"
       },
       {
         "id": "bottle-10-33",
         "category": "Вращающиеся",
         "title": "Градиентный зелёно-голубой",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-33.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-33.webp",
         "tildaValue": "Градиентный зелёно-голубой",
         "isDefault": false,
         "order": 33,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-33.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-33.webp"
       },
       {
         "id": "bottle-10-34",
         "category": "Вращающиеся",
         "title": "Градиентный розово-фиолетовый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-34.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-34.webp",
         "tildaValue": "Градиентный розово-фиолетовый",
         "isDefault": false,
         "order": 34,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-34.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-34.webp"
       },
       {
         "id": "bottle-10-35",
         "category": "Вращающиеся",
         "title": "Градиентный синий",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-35.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-35.webp",
         "tildaValue": "Градиентный синий",
         "isDefault": false,
         "order": 35,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-35.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-35.webp"
       },
       {
         "id": "bottle-10-36",
         "category": "Вращающиеся",
         "title": "Леопард жёлтый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-36.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-36.webp",
         "tildaValue": "Леопард жёлтый",
         "isDefault": false,
         "order": 36,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-36.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-36.webp"
       },
       {
         "id": "bottle-10-37",
         "category": "Вращающиеся",
         "title": "Леопард зелёный",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-37.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-37.webp",
         "tildaValue": "Леопард зелёный",
         "isDefault": false,
         "order": 37,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-37.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-37.webp"
       },
       {
         "id": "bottle-10-38",
         "category": "Вращающиеся",
         "title": "Леопард розовый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-38.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-38.webp",
         "tildaValue": "Леопард розовый",
         "isDefault": false,
         "order": 38,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-38.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-38.webp"
       },
       {
         "id": "bottle-10-39",
         "category": "Вращающиеся",
         "title": "Леопард синий",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-39.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-39.webp",
         "tildaValue": "Леопард синий",
         "isDefault": false,
         "order": 39,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-39.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-39.webp"
       },
       {
         "id": "bottle-10-40",
         "category": "Вращающиеся",
         "title": "Металлический золотой",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-40.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-40.webp",
         "tildaValue": "Металлический золотой",
         "isDefault": false,
         "order": 40,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-40.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-40.webp"
       },
       {
         "id": "bottle-10-41",
         "category": "Вращающиеся",
         "title": "Металлический красный",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-41.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-41.webp",
         "tildaValue": "Металлический красный",
         "isDefault": false,
         "order": 41,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-41.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-41.webp"
       },
       {
         "id": "bottle-10-42",
         "category": "Вращающиеся",
         "title": "Металлический серебристый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-42.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-42.webp",
         "tildaValue": "Металлический серебристый",
         "isDefault": false,
         "order": 42,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-42.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-42.webp"
       },
       {
         "id": "bottle-10-43",
         "category": "Вращающиеся",
         "title": "Металлический синий",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-43.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-43.webp",
         "tildaValue": "Металлический синий",
         "isDefault": false,
         "order": 43,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-43.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-43.webp"
       },
       {
         "id": "bottle-10-44",
         "category": "Вращающиеся",
         "title": "Металлический сиреневый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-44.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-44.webp",
         "tildaValue": "Металлический сиреневый",
         "isDefault": false,
         "order": 44,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-44.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-44.webp"
       },
       {
         "id": "bottle-10-45",
         "category": "С колпачком",
         "title": "Красный",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-45.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-45.webp",
         "tildaValue": "Красный",
         "isDefault": false,
         "order": 45,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-45.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-45.webp"
       },
       {
         "id": "bottle-10-46",
         "category": "С колпачком",
         "title": "Серо-коричневый",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-46.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-46.webp",
         "tildaValue": "Серо-коричневый",
         "isDefault": false,
         "order": 46,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-46.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-46.webp"
       },
       {
         "id": "bottle-10-47",
         "category": "С колпачком",
         "title": "Синий",
         "surcharge": 0,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/full/bottle-10-47.webp",
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/full/bottle-10-47.webp",
         "tildaValue": "Синий",
         "isDefault": false,
         "order": 47,
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/atomizers-webp/thumbs/bottle-10-47.webp"
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/thumbs/bottle-10-47.webp"
       }
     ]
   }
