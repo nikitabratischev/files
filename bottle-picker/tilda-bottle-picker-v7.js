@@ -198,6 +198,28 @@ window.__DBP_BOTTLE_CONFIG__={"version":5,"updatedAt":"2026-08-26","currency":"R
     });
   }
 
+  /*
+    Tilda может пересоздавать содержимое карточки после её открытия или смены
+    объёма. Поэтому увеличение обрабатывается на document в capture-фазе:
+    такой обработчик не теряется вместе с отдельными карточками флаконов.
+  */
+  document.addEventListener('click', function (event) {
+    const target = event.target;
+    if (!target || typeof target.closest !== 'function') return;
+
+    const media = target.closest('.dbp-option__media.has-image');
+    if (!media || !media.closest('.dbp-picker')) return;
+
+    event.preventDefault();
+    event.stopPropagation();
+    openBottleImage(
+      media.dataset.fullImage || media.dataset.previewImage,
+      media.dataset.previewImage || media.dataset.fullImage,
+      media.dataset.imageAlt || '',
+      media.dataset.imageCaption || media.dataset.imageAlt || ''
+    );
+  }, true);
+
   function loadBottles() {
     if (!bottleConfigPromise) {
       if (window.__DBP_BOTTLE_CONFIG__ && window.__DBP_BOTTLE_CONFIG__.volumes) {
@@ -407,6 +429,10 @@ window.__DBP_BOTTLE_CONFIG__={"version":5,"updatedAt":"2026-08-26","currency":"R
           const image = document.createElement('img');
           const fullImageUrl = getCdnAssetUrl(bottle.image);
           const thumbnailUrl = getCdnAssetUrl(bottle.thumbnail || bottle.image);
+          media.dataset.fullImage = fullImageUrl;
+          media.dataset.previewImage = thumbnailUrl;
+          media.dataset.imageAlt = bottle.title || '';
+          media.dataset.imageCaption = getBottleCaption(bottle);
           image.src = thumbnailUrl;
           image.alt = bottle.title;
           image.loading = bottle.isDefault ? 'eager' : 'lazy';
@@ -428,16 +454,6 @@ window.__DBP_BOTTLE_CONFIG__={"version":5,"updatedAt":"2026-08-26","currency":"R
           media.addEventListener('touchstart', function () {
             preloadFullImage(fullImageUrl);
           }, { once: true, passive: true });
-          media.addEventListener('click', function (event) {
-            event.preventDefault();
-            event.stopPropagation();
-            openBottleImage(
-              fullImageUrl || image.src,
-              image.currentSrc || image.src,
-              image.alt,
-              getBottleCaption(bottle)
-            );
-          });
         } else {
           media.textContent = volume + ' мл';
         }
