@@ -39,7 +39,7 @@
     display: flex;
     flex-direction: column;
     gap: 16px;
-    max-height: 300px;
+    max-height: 390px;
     padding-right: 4px;
     overflow-y: auto;
     scrollbar-color: #00ff94 #181818;
@@ -289,7 +289,7 @@
 
   @media (max-width: 640px) {
     .dbp-picker { margin: 24px 0 27px; }
-    .dbp-picker__grid { max-height: 280px; }
+    .dbp-picker__grid { max-height: 360px; }
     .dbp-category__options { grid-template-columns: 1fr; }
     .dbp-option { grid-template-columns: 66px minmax(0, 1fr) 18px; }
     .dbp-option__media { width: 66px; }
