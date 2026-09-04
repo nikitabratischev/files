@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "updatedAt": "2026-09-04",
   "currency": "RUB",
   "volumes": {
@@ -681,18 +681,6 @@
         "tildaValue": "55 =+60",
         "isDefault": false,
         "order": 36
-      },
-      {
-        "id": "atomizer-56",
-        "tildaCode": "56",
-        "category": "С колпачком",
-        "title": "Металл с колпачком синий",
-        "surcharge": 60,
-        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/bottle-picker/full/56.webp",
-        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/bottle-picker/thumbs/56.webp",
-        "tildaValue": "56 =+60",
-        "isDefault": false,
-        "order": 37
       },
       {
         "id": "atomizer-57",
