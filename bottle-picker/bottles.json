@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-08-26",
+  "version": 6,
+  "updatedAt": "2026-09-04",
   "currency": "RUB",
   "volumes": {
     "2": [
@@ -333,6 +333,18 @@
         "tildaValue": "18",
         "isDefault": false,
         "order": 8
+      },
+      {
+        "id": "atomizer-59",
+        "tildaCode": "59",
+        "category": "Кофр",
+        "title": "Чёрный",
+        "surcharge": 300,
+        "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/bottle-picker/full/59.webp",
+        "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/bottle-picker/thumbs/59.webp",
+        "tildaValue": "59 =+300",
+        "isDefault": false,
+        "order": 8.5
       },
       {
         "id": "atomizer-19",
