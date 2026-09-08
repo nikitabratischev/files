@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-09-08",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 472,
-  "imageAssociations": 505,
-  "uniqueSourceImages": 469,
+  "productCount": 476,
+  "imageAssociations": 509,
+  "uniqueSourceImages": 509,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8547236,
-    "thumbnailBytes": 2612946,
-    "combinedBytes": 11160182
+    "fullBytes": 8625010,
+    "thumbnailBytes": 2640220,
+    "combinedBytes": 11265230
   },
   "products": {
     "109740192581": {
@@ -13296,6 +13296,114 @@
           "thumbnailHeight": 480,
           "fullBytes": 10650,
           "thumbnailBytes": 3672
+        }
+      ]
+    },
+    "225510651272": {
+      "title": "Guerlain Guerlain Patchouli Paris",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/225510651272-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/225510651272-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/225510651272-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/225510651272-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "225510651272-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/225510651272-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/225510651272-01.webp",
+          "fullPath": "catalog-full/225510651272-01.webp",
+          "thumbnailPath": "catalog-thumbs/225510651272-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 21956,
+          "thumbnailBytes": 7116
+        }
+      ]
+    },
+    "166924214118": {
+      "title": "The house of oud The House of Oud Almond Harmony",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/166924214118-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/166924214118-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/166924214118-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/166924214118-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "166924214118-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/166924214118-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/166924214118-01.webp",
+          "fullPath": "catalog-full/166924214118-01.webp",
+          "thumbnailPath": "catalog-thumbs/166924214118-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 30670,
+          "thumbnailBytes": 11648
+        }
+      ]
+    },
+    "486528198058": {
+      "title": "Parfums de Marly Parfums De Marly Valaya",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/486528198058-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/486528198058-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/486528198058-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/486528198058-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "486528198058-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/486528198058-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/486528198058-01.webp",
+          "fullPath": "catalog-full/486528198058-01.webp",
+          "thumbnailPath": "catalog-thumbs/486528198058-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 8716,
+          "thumbnailBytes": 2920
+        }
+      ]
+    },
+    "361895791065": {
+      "title": "Parfums de Marly Parfums de Marly Safanad",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/361895791065-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/361895791065-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/361895791065-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/361895791065-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "361895791065-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/361895791065-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/361895791065-01.webp",
+          "fullPath": "catalog-full/361895791065-01.webp",
+          "thumbnailPath": "catalog-thumbs/361895791065-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 16432,
+          "thumbnailBytes": 5590
         }
       ]
     }
