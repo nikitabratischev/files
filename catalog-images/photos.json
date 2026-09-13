@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08",
+  "updatedAt": "2026-09-13",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 476,
-  "imageAssociations": 509,
-  "uniqueSourceImages": 509,
+  "productCount": 477,
+  "imageAssociations": 510,
+  "uniqueSourceImages": 510,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8625010,
-    "thumbnailBytes": 2640220,
-    "combinedBytes": 11265230
+    "fullBytes": 8644756,
+    "thumbnailBytes": 2646688,
+    "combinedBytes": 11291444
   },
   "products": {
     "109740192581": {
@@ -13404,6 +13404,33 @@
           "thumbnailHeight": 480,
           "fullBytes": 16432,
           "thumbnailBytes": 5590
+        }
+      ]
+    },
+    "925048854333": {
+      "title": "Guerlain Guerlain Neroli Outrenoir",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/925048854333-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/925048854333-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/925048854333-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/925048854333-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "925048854333-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/925048854333-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/925048854333-01.webp",
+          "fullPath": "catalog-full/925048854333-01.webp",
+          "thumbnailPath": "catalog-thumbs/925048854333-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 19746,
+          "thumbnailBytes": 6468
         }
       ]
     }
