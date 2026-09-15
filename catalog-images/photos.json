@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-15",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 477,
-  "imageAssociations": 510,
-  "uniqueSourceImages": 510,
+  "productCount": 482,
+  "imageAssociations": 515,
+  "uniqueSourceImages": 515,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8644756,
-    "thumbnailBytes": 2646688,
-    "combinedBytes": 11291444
+    "fullBytes": 8707078,
+    "thumbnailBytes": 2667494,
+    "combinedBytes": 11374572
   },
   "products": {
     "109740192581": {
@@ -13431,6 +13431,141 @@
           "thumbnailHeight": 480,
           "fullBytes": 19746,
           "thumbnailBytes": 6468
+        }
+      ]
+    },
+    "889689340370": {
+      "title": "Map Of The Heart Map Of The Heart Purple Heart V.5 (velours)",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/889689340370-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/889689340370-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/889689340370-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/889689340370-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "889689340370-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/889689340370-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/889689340370-01.webp",
+          "fullPath": "catalog-full/889689340370-01.webp",
+          "thumbnailPath": "catalog-thumbs/889689340370-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 10382,
+          "thumbnailBytes": 4118
+        }
+      ]
+    },
+    "102932808269": {
+      "title": "Map Of The Heart Map Of The Heart Abundance V.8",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/102932808269-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/102932808269-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/102932808269-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/102932808269-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "102932808269-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/102932808269-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/102932808269-01.webp",
+          "fullPath": "catalog-full/102932808269-01.webp",
+          "thumbnailPath": "catalog-thumbs/102932808269-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 8438,
+          "thumbnailBytes": 3034
+        }
+      ]
+    },
+    "968625497461": {
+      "title": "Les Liquides Imaginaires Les Liquides Imaginaires Desert Suave",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/968625497461-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/968625497461-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/968625497461-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/968625497461-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "968625497461-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/968625497461-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/968625497461-01.webp",
+          "fullPath": "catalog-full/968625497461-01.webp",
+          "thumbnailPath": "catalog-thumbs/968625497461-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 9750,
+          "thumbnailBytes": 3156
+        }
+      ]
+    },
+    "618523780485": {
+      "title": "Giorgio Armani Armani Si Intense",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/618523780485-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/618523780485-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/618523780485-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/618523780485-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "618523780485-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/618523780485-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/618523780485-01.webp",
+          "fullPath": "catalog-full/618523780485-01.webp",
+          "thumbnailPath": "catalog-thumbs/618523780485-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 14688,
+          "thumbnailBytes": 4444
+        }
+      ]
+    },
+    "476999554007": {
+      "title": "Guerlain Guerlain La Petite Robe Noire Black Perfecto",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/476999554007-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/476999554007-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/476999554007-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/476999554007-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "476999554007-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/476999554007-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/476999554007-01.webp",
+          "fullPath": "catalog-full/476999554007-01.webp",
+          "thumbnailPath": "catalog-thumbs/476999554007-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 19064,
+          "thumbnailBytes": 6054
         }
       ]
     }
