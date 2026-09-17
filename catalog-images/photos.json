@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15",
+  "updatedAt": "2026-09-17",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 482,
-  "imageAssociations": 515,
-  "uniqueSourceImages": 515,
+  "productCount": 483,
+  "imageAssociations": 516,
+  "uniqueSourceImages": 516,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8707078,
-    "thumbnailBytes": 2667494,
-    "combinedBytes": 11374572
+    "fullBytes": 8727944,
+    "thumbnailBytes": 2673376,
+    "combinedBytes": 11401320
   },
   "products": {
     "109740192581": {
@@ -13566,6 +13566,33 @@
           "thumbnailHeight": 480,
           "fullBytes": 19064,
           "thumbnailBytes": 6054
+        }
+      ]
+    },
+    "975517773538": {
+      "title": "Floraiku Floraiku Levitating",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/975517773538-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/975517773538-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/975517773538-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/975517773538-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "975517773538-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/975517773538-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/975517773538-01.webp",
+          "fullPath": "catalog-full/975517773538-01.webp",
+          "thumbnailPath": "catalog-thumbs/975517773538-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 20866,
+          "thumbnailBytes": 5882
         }
       ]
     }
