@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17",
+  "updatedAt": "2026-09-25",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 483,
-  "imageAssociations": 516,
-  "uniqueSourceImages": 516,
+  "productCount": 491,
+  "imageAssociations": 524,
+  "uniqueSourceImages": 524,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8727944,
-    "thumbnailBytes": 2673376,
-    "combinedBytes": 11401320
+    "fullBytes": 8826084,
+    "thumbnailBytes": 2707850,
+    "combinedBytes": 11533934
   },
   "products": {
     "109740192581": {
@@ -13593,6 +13593,222 @@
           "thumbnailHeight": 480,
           "fullBytes": 20866,
           "thumbnailBytes": 5882
+        }
+      ]
+    },
+    "245230229025": {
+      "title": "Osmassino Osmassino Affection",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/245230229025-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/245230229025-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/245230229025-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/245230229025-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "245230229025-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/245230229025-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/245230229025-01.webp",
+          "fullPath": "catalog-full/245230229025-01.webp",
+          "thumbnailPath": "catalog-thumbs/245230229025-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 7336,
+          "thumbnailBytes": 3132
+        }
+      ]
+    },
+    "404587729338": {
+      "title": "Guerlain Guerlain Shalimar Souffle",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/404587729338-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/404587729338-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/404587729338-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/404587729338-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "404587729338-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/404587729338-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/404587729338-01.webp",
+          "fullPath": "catalog-full/404587729338-01.webp",
+          "thumbnailPath": "catalog-thumbs/404587729338-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 18762,
+          "thumbnailBytes": 6424
+        }
+      ]
+    },
+    "856470283382": {
+      "title": "Francesca dell`Oro Francesca dell`Oro Vanille 12:00",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/856470283382-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/856470283382-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/856470283382-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/856470283382-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "856470283382-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/856470283382-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/856470283382-01.webp",
+          "fullPath": "catalog-full/856470283382-01.webp",
+          "thumbnailPath": "catalog-thumbs/856470283382-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 14970,
+          "thumbnailBytes": 5552
+        }
+      ]
+    },
+    "394970337495": {
+      "title": "Ex Nihilo Ex Nihilo Spiky Muse",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/394970337495-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/394970337495-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/394970337495-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/394970337495-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "394970337495-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/394970337495-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/394970337495-01.webp",
+          "fullPath": "catalog-full/394970337495-01.webp",
+          "thumbnailPath": "catalog-thumbs/394970337495-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 11180,
+          "thumbnailBytes": 3862
+        }
+      ]
+    },
+    "805572817743": {
+      "title": "Amouage Amouage Lilac love",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/805572817743-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/805572817743-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/805572817743-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/805572817743-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "805572817743-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/805572817743-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/805572817743-01.webp",
+          "fullPath": "catalog-full/805572817743-01.webp",
+          "thumbnailPath": "catalog-thumbs/805572817743-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 8444,
+          "thumbnailBytes": 3634
+        }
+      ]
+    },
+    "472887685402": {
+      "title": "Xerjoff Xerjoff Opera",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/472887685402-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/472887685402-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/472887685402-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/472887685402-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "472887685402-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/472887685402-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/472887685402-01.webp",
+          "fullPath": "catalog-full/472887685402-01.webp",
+          "thumbnailPath": "catalog-thumbs/472887685402-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 14112,
+          "thumbnailBytes": 3476
+        }
+      ]
+    },
+    "704496565998": {
+      "title": "Byredo Byredo Gypsy Water Absolu",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/704496565998-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/704496565998-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/704496565998-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/704496565998-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "704496565998-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/704496565998-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/704496565998-01.webp",
+          "fullPath": "catalog-full/704496565998-01.webp",
+          "thumbnailPath": "catalog-thumbs/704496565998-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 12590,
+          "thumbnailBytes": 4654
+        }
+      ]
+    },
+    "637126980219": {
+      "title": "Rosendo Mateu Rosendo Mateu 5 Floral, Amber, Sensual Musk",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/637126980219-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/637126980219-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/637126980219-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/637126980219-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "637126980219-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/637126980219-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/637126980219-01.webp",
+          "fullPath": "catalog-full/637126980219-01.webp",
+          "thumbnailPath": "catalog-thumbs/637126980219-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 10746,
+          "thumbnailBytes": 3740
         }
       ]
     }
