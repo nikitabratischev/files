@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-28",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 491,
-  "imageAssociations": 524,
-  "uniqueSourceImages": 524,
+  "productCount": 494,
+  "imageAssociations": 527,
+  "uniqueSourceImages": 527,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8826084,
-    "thumbnailBytes": 2707850,
-    "combinedBytes": 11533934
+    "fullBytes": 8865722,
+    "thumbnailBytes": 2720452,
+    "combinedBytes": 11586174
   },
   "products": {
     "109740192581": {
@@ -13809,6 +13809,87 @@
           "thumbnailHeight": 480,
           "fullBytes": 10746,
           "thumbnailBytes": 3740
+        }
+      ]
+    },
+    "744449655466": {
+      "title": "House Of Brandt House Of Brandt Guava Sorbet",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/744449655466-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/744449655466-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/744449655466-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/744449655466-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "744449655466-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/744449655466-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/744449655466-01.webp",
+          "fullPath": "catalog-full/744449655466-01.webp",
+          "thumbnailPath": "catalog-thumbs/744449655466-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 8182,
+          "thumbnailBytes": 3032
+        }
+      ]
+    },
+    "759842669403": {
+      "title": "Guerlain Guerlain Tabac Sahara Absolus Allegoria",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/759842669403-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/759842669403-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/759842669403-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/759842669403-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "759842669403-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/759842669403-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/759842669403-01.webp",
+          "fullPath": "catalog-full/759842669403-01.webp",
+          "thumbnailPath": "catalog-thumbs/759842669403-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 17186,
+          "thumbnailBytes": 5966
+        }
+      ]
+    },
+    "775678175815": {
+      "title": "Xerjoff Xerjoff Sospiro Vibrato",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/775678175815-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/775678175815-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/775678175815-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/775678175815-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "775678175815-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/775678175815-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/775678175815-01.webp",
+          "fullPath": "catalog-full/775678175815-01.webp",
+          "thumbnailPath": "catalog-thumbs/775678175815-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 14270,
+          "thumbnailBytes": 3604
         }
       ]
     }
