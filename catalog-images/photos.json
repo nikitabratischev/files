@@ -4,9 +4,9 @@
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 496,
-  "imageAssociations": 529,
-  "uniqueSourceImages": 529,
+  "productCount": 498,
+  "imageAssociations": 531,
+  "uniqueSourceImages": 531,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8883796,
-    "thumbnailBytes": 2726928,
-    "combinedBytes": 11610724
+    "fullBytes": 8922190,
+    "thumbnailBytes": 2737720,
+    "combinedBytes": 11659910
   },
   "products": {
     "109740192581": {
@@ -13944,6 +13944,60 @@
           "thumbnailHeight": 480,
           "fullBytes": 7996,
           "thumbnailBytes": 2546
+        }
+      ]
+    },
+    "332653428098": {
+      "title": "Floraiku Floraiku One Umbrella For Two",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/332653428098-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/332653428098-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/332653428098-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/332653428098-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "332653428098-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/332653428098-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/332653428098-01.webp",
+          "fullPath": "catalog-full/332653428098-01.webp",
+          "thumbnailPath": "catalog-thumbs/332653428098-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 19378,
+          "thumbnailBytes": 5578
+        }
+      ]
+    },
+    "773095567904": {
+      "title": "Floraiku Floraiku Sand and Skin",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/773095567904-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/773095567904-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/773095567904-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/773095567904-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "773095567904-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/773095567904-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/773095567904-01.webp",
+          "fullPath": "catalog-full/773095567904-01.webp",
+          "thumbnailPath": "catalog-thumbs/773095567904-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 19016,
+          "thumbnailBytes": 5214
         }
       ]
     }
