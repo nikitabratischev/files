@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-29",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 494,
-  "imageAssociations": 527,
-  "uniqueSourceImages": 527,
+  "productCount": 496,
+  "imageAssociations": 529,
+  "uniqueSourceImages": 529,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8865722,
-    "thumbnailBytes": 2720452,
-    "combinedBytes": 11586174
+    "fullBytes": 8883796,
+    "thumbnailBytes": 2726928,
+    "combinedBytes": 11610724
   },
   "products": {
     "109740192581": {
@@ -5581,7 +5581,7 @@
       ]
     },
     "447694976282": {
-      "title": "Ex Nihilo Blue Talisman",
+      "title": "Ex Nihilo Ex Nihilo Blue Talisman",
       "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/447694976282-01.webp",
       "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/447694976282-01.webp",
       "images": [
@@ -5602,8 +5602,8 @@
           "height": 877,
           "thumbnailWidth": 360,
           "thumbnailHeight": 480,
-          "fullBytes": 18298,
-          "thumbnailBytes": 6094
+          "fullBytes": 13454,
+          "thumbnailBytes": 4952
         }
       ]
     },
@@ -13890,6 +13890,60 @@
           "thumbnailHeight": 480,
           "fullBytes": 14270,
           "thumbnailBytes": 3604
+        }
+      ]
+    },
+    "340805194357": {
+      "title": "Lancome Lancome Rose Peonia",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/340805194357-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/340805194357-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/340805194357-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/340805194357-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "340805194357-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/340805194357-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/340805194357-01.webp",
+          "fullPath": "catalog-full/340805194357-01.webp",
+          "thumbnailPath": "catalog-thumbs/340805194357-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 14922,
+          "thumbnailBytes": 5072
+        }
+      ]
+    },
+    "630538054628": {
+      "title": "Kilian Kilian Good Girl Gone Bad Extreme",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/630538054628-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/630538054628-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/630538054628-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/630538054628-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "630538054628-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/630538054628-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/630538054628-01.webp",
+          "fullPath": "catalog-full/630538054628-01.webp",
+          "thumbnailPath": "catalog-thumbs/630538054628-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 7996,
+          "thumbnailBytes": 2546
         }
       ]
     }
