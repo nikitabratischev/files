@@ -4,9 +4,9 @@
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 501,
-  "imageAssociations": 534,
-  "uniqueSourceImages": 534,
+  "productCount": 502,
+  "imageAssociations": 535,
+  "uniqueSourceImages": 535,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8966458,
-    "thumbnailBytes": 2754256,
-    "combinedBytes": 11720714
+    "fullBytes": 8983172,
+    "thumbnailBytes": 2760980,
+    "combinedBytes": 11744152
   },
   "products": {
     "109740192581": {
@@ -14079,6 +14079,33 @@
           "thumbnailHeight": 480,
           "fullBytes": 14440,
           "thumbnailBytes": 5818
+        }
+      ]
+    },
+    "401477197224": {
+      "title": "Dior Dior Hypnotic Poison edp",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/401477197224-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/401477197224-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/401477197224-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/401477197224-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "401477197224-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/401477197224-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/401477197224-01.webp",
+          "fullPath": "catalog-full/401477197224-01.webp",
+          "thumbnailPath": "catalog-thumbs/401477197224-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 16714,
+          "thumbnailBytes": 6724
         }
       ]
     }
