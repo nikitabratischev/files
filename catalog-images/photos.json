@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-10-20",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 498,
-  "imageAssociations": 531,
-  "uniqueSourceImages": 531,
+  "productCount": 501,
+  "imageAssociations": 534,
+  "uniqueSourceImages": 534,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8922190,
-    "thumbnailBytes": 2737720,
-    "combinedBytes": 11659910
+    "fullBytes": 8966458,
+    "thumbnailBytes": 2754256,
+    "combinedBytes": 11720714
   },
   "products": {
     "109740192581": {
@@ -13998,6 +13998,87 @@
           "thumbnailHeight": 480,
           "fullBytes": 19016,
           "thumbnailBytes": 5214
+        }
+      ]
+    },
+    "768352148524": {
+      "title": "Rabdan Rabdan White code",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/768352148524-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/768352148524-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/768352148524-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/768352148524-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "768352148524-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/768352148524-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/768352148524-01.webp",
+          "fullPath": "catalog-full/768352148524-01.webp",
+          "thumbnailPath": "catalog-thumbs/768352148524-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 9866,
+          "thumbnailBytes": 3526
+        }
+      ]
+    },
+    "345393413405": {
+      "title": "The house of oud The house of oud Pure diamond",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/345393413405-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/345393413405-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/345393413405-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/345393413405-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "345393413405-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/345393413405-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/345393413405-01.webp",
+          "fullPath": "catalog-full/345393413405-01.webp",
+          "thumbnailPath": "catalog-thumbs/345393413405-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 19962,
+          "thumbnailBytes": 7192
+        }
+      ]
+    },
+    "467672873584": {
+      "title": "Dior Dior Hypnotic Poison edt",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/467672873584-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/467672873584-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/467672873584-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/467672873584-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "467672873584-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/467672873584-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/467672873584-01.webp",
+          "fullPath": "catalog-full/467672873584-01.webp",
+          "thumbnailPath": "catalog-thumbs/467672873584-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 14440,
+          "thumbnailBytes": 5818
         }
       ]
     }
