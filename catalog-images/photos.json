@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-27",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8983172,
-    "thumbnailBytes": 2760980,
-    "combinedBytes": 11744152
+    "fullBytes": 8977838,
+    "thumbnailBytes": 2761254,
+    "combinedBytes": 11739092
   },
   "products": {
     "109740192581": {
@@ -1021,7 +1021,7 @@
       ]
     },
     "169281545101": {
-      "title": "Tom Ford Vanille Fatale",
+      "title": "Tom Ford Tom Ford Vanille Fatale",
       "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/169281545101-01.webp",
       "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/169281545101-01.webp",
       "images": [
@@ -1038,12 +1038,12 @@
           "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/169281545101-01.webp",
           "fullPath": "catalog-full/169281545101-01.webp",
           "thumbnailPath": "catalog-thumbs/169281545101-01.webp",
-          "width": 869,
-          "height": 1158,
+          "width": 658,
+          "height": 877,
           "thumbnailWidth": 360,
           "thumbnailHeight": 480,
-          "fullBytes": 16256,
-          "thumbnailBytes": 3986
+          "fullBytes": 10922,
+          "thumbnailBytes": 4260
         }
       ]
     },
