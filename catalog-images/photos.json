@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-30",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 502,
-  "imageAssociations": 535,
-  "uniqueSourceImages": 535,
+  "productCount": 506,
+  "imageAssociations": 539,
+  "uniqueSourceImages": 539,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 8977838,
-    "thumbnailBytes": 2761254,
-    "combinedBytes": 11739092
+    "fullBytes": 9059896,
+    "thumbnailBytes": 2788808,
+    "combinedBytes": 11848704
   },
   "products": {
     "109740192581": {
@@ -14106,6 +14106,114 @@
           "thumbnailHeight": 480,
           "fullBytes": 16714,
           "thumbnailBytes": 6724
+        }
+      ]
+    },
+    "462479556157": {
+      "title": "Penhaligon`s Penhaligon`s Changing Constance",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/462479556157-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/462479556157-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/462479556157-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/462479556157-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "462479556157-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/462479556157-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/462479556157-01.webp",
+          "fullPath": "catalog-full/462479556157-01.webp",
+          "thumbnailPath": "catalog-thumbs/462479556157-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 12136,
+          "thumbnailBytes": 4016
+        }
+      ]
+    },
+    "194679588829": {
+      "title": "Osmassino Osmassino Seljuk",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/194679588829-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/194679588829-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/194679588829-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/194679588829-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "194679588829-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/194679588829-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/194679588829-01.webp",
+          "fullPath": "catalog-full/194679588829-01.webp",
+          "thumbnailPath": "catalog-thumbs/194679588829-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 8210,
+          "thumbnailBytes": 2988
+        }
+      ]
+    },
+    "561154937407": {
+      "title": "House Of Sillage House Of Sillage Hauts Bijoux",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/561154937407-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/561154937407-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/561154937407-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/561154937407-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "561154937407-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/561154937407-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/561154937407-01.webp",
+          "fullPath": "catalog-full/561154937407-01.webp",
+          "thumbnailPath": "catalog-thumbs/561154937407-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 37114,
+          "thumbnailBytes": 12168
+        }
+      ]
+    },
+    "102255577796": {
+      "title": "Armaf Armaf Odyssey Go ManGo",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/102255577796-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/102255577796-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/102255577796-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/102255577796-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "102255577796-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/102255577796-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/102255577796-01.webp",
+          "fullPath": "catalog-full/102255577796-01.webp",
+          "thumbnailPath": "catalog-thumbs/102255577796-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 24598,
+          "thumbnailBytes": 8382
         }
       ]
     }
