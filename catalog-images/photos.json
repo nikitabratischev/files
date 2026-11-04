@@ -5,8 +5,8 @@
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
   "productCount": 507,
-  "imageAssociations": 540,
-  "uniqueSourceImages": 540,
+  "imageAssociations": 539,
+  "uniqueSourceImages": 539,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 9080030,
-    "thumbnailBytes": 2795580,
-    "combinedBytes": 11875610
+    "fullBytes": 9076676,
+    "thumbnailBytes": 2795508,
+    "combinedBytes": 11872184
   },
   "products": {
     "109740192581": {
@@ -325,16 +325,14 @@
       ]
     },
     "129247477451": {
-      "title": "Essential Parfums Bois Imperial",
+      "title": "Essential Parfums Essential Parfums Bois Imperial",
       "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/129247477451-01.webp",
       "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/129247477451-01.webp",
       "images": [
-        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/129247477451-01.webp",
-        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/129247477451-02.webp"
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/129247477451-01.webp"
       ],
       "thumbnails": [
-        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/129247477451-01.webp",
-        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/129247477451-02.webp"
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/129247477451-01.webp"
       ],
       "files": [
         {
@@ -344,26 +342,12 @@
           "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/129247477451-01.webp",
           "fullPath": "catalog-full/129247477451-01.webp",
           "thumbnailPath": "catalog-thumbs/129247477451-01.webp",
-          "width": 857,
-          "height": 1142,
+          "width": 658,
+          "height": 877,
           "thumbnailWidth": 360,
           "thumbnailHeight": 480,
-          "fullBytes": 12212,
-          "thumbnailBytes": 3422
-        },
-        {
-          "order": 2,
-          "fileName": "129247477451-02.webp",
-          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/129247477451-02.webp",
-          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/129247477451-02.webp",
-          "fullPath": "catalog-full/129247477451-02.webp",
-          "thumbnailPath": "catalog-thumbs/129247477451-02.webp",
-          "width": 540,
-          "height": 720,
-          "thumbnailWidth": 360,
-          "thumbnailHeight": 480,
-          "fullBytes": 28012,
-          "thumbnailBytes": 12836
+          "fullBytes": 8858,
+          "thumbnailBytes": 3350
         }
       ]
     },
