@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-11-04",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 506,
-  "imageAssociations": 539,
-  "uniqueSourceImages": 539,
+  "productCount": 507,
+  "imageAssociations": 540,
+  "uniqueSourceImages": 540,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 9059896,
-    "thumbnailBytes": 2788808,
-    "combinedBytes": 11848704
+    "fullBytes": 9080030,
+    "thumbnailBytes": 2795580,
+    "combinedBytes": 11875610
   },
   "products": {
     "109740192581": {
@@ -14214,6 +14214,33 @@
           "thumbnailHeight": 480,
           "fullBytes": 24598,
           "thumbnailBytes": 8382
+        }
+      ]
+    },
+    "310155454873": {
+      "title": "Memo Memo Flam",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/310155454873-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/310155454873-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/310155454873-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/310155454873-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "310155454873-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/310155454873-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/310155454873-01.webp",
+          "fullPath": "catalog-full/310155454873-01.webp",
+          "thumbnailPath": "catalog-thumbs/310155454873-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 20134,
+          "thumbnailBytes": 6772
         }
       ]
     }
