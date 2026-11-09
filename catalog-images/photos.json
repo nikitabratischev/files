@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-09",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 507,
-  "imageAssociations": 539,
-  "uniqueSourceImages": 539,
+  "productCount": 510,
+  "imageAssociations": 542,
+  "uniqueSourceImages": 542,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 9076676,
-    "thumbnailBytes": 2795508,
-    "combinedBytes": 11872184
+    "fullBytes": 9102728,
+    "thumbnailBytes": 2805388,
+    "combinedBytes": 11908116
   },
   "products": {
     "109740192581": {
@@ -14225,6 +14225,87 @@
           "thumbnailHeight": 480,
           "fullBytes": 20134,
           "thumbnailBytes": 6772
+        }
+      ]
+    },
+    "595697997217": {
+      "title": "Essential Parfums Essential Parfums Ambre Latte",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/595697997217-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/595697997217-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/595697997217-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/595697997217-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "595697997217-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/595697997217-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/595697997217-01.webp",
+          "fullPath": "catalog-full/595697997217-01.webp",
+          "thumbnailPath": "catalog-thumbs/595697997217-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 8184,
+          "thumbnailBytes": 2862
+        }
+      ]
+    },
+    "840478558303": {
+      "title": "Carolina Herrera Carolina Herrera Cedar Chic",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/840478558303-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/840478558303-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/840478558303-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/840478558303-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "840478558303-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/840478558303-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/840478558303-01.webp",
+          "fullPath": "catalog-full/840478558303-01.webp",
+          "thumbnailPath": "catalog-thumbs/840478558303-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 8900,
+          "thumbnailBytes": 3492
+        }
+      ]
+    },
+    "131034399625": {
+      "title": "Montale Montale Oudmazing",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/131034399625-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/131034399625-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/131034399625-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/131034399625-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "131034399625-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/131034399625-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/131034399625-01.webp",
+          "fullPath": "catalog-full/131034399625-01.webp",
+          "thumbnailPath": "catalog-thumbs/131034399625-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 8968,
+          "thumbnailBytes": 3526
         }
       ]
     }
