@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 510,
-  "imageAssociations": 542,
-  "uniqueSourceImages": 542,
+  "productCount": 514,
+  "imageAssociations": 546,
+  "uniqueSourceImages": 546,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 9102728,
-    "thumbnailBytes": 2805388,
-    "combinedBytes": 11908116
+    "fullBytes": 9137778,
+    "thumbnailBytes": 2818062,
+    "combinedBytes": 11955840
   },
   "products": {
     "109740192581": {
@@ -14306,6 +14306,114 @@
           "thumbnailHeight": 480,
           "fullBytes": 8968,
           "thumbnailBytes": 3526
+        }
+      ]
+    },
+    "656581874720": {
+      "title": "Givenchy Givenchy Very Irresistible",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/656581874720-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/656581874720-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/656581874720-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/656581874720-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "656581874720-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/656581874720-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/656581874720-01.webp",
+          "fullPath": "catalog-full/656581874720-01.webp",
+          "thumbnailPath": "catalog-thumbs/656581874720-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 12234,
+          "thumbnailBytes": 3954
+        }
+      ]
+    },
+    "468101052857": {
+      "title": "Rayhaan Rayhaan Cedrus Blanc",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/468101052857-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/468101052857-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/468101052857-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/468101052857-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "468101052857-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/468101052857-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/468101052857-01.webp",
+          "fullPath": "catalog-full/468101052857-01.webp",
+          "thumbnailPath": "catalog-thumbs/468101052857-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 7304,
+          "thumbnailBytes": 2926
+        }
+      ]
+    },
+    "750436990514": {
+      "title": "Jo Malone Jo Malone Scarlet Poppy",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/750436990514-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/750436990514-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/750436990514-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/750436990514-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "750436990514-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/750436990514-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/750436990514-01.webp",
+          "fullPath": "catalog-full/750436990514-01.webp",
+          "thumbnailPath": "catalog-thumbs/750436990514-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 9208,
+          "thumbnailBytes": 3398
+        }
+      ]
+    },
+    "385721426759": {
+      "title": "Zara Zara Stellar Amber",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/385721426759-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/385721426759-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/385721426759-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/385721426759-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "385721426759-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/385721426759-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/385721426759-01.webp",
+          "fullPath": "catalog-full/385721426759-01.webp",
+          "thumbnailPath": "catalog-thumbs/385721426759-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 6304,
+          "thumbnailBytes": 2396
         }
       ]
     }
