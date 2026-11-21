@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-21",
   "repository": "nikitabratischev/files",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images",
-  "productCount": 514,
-  "imageAssociations": 546,
-  "uniqueSourceImages": 546,
+  "productCount": 517,
+  "imageAssociations": 549,
+  "uniqueSourceImages": 549,
   "formats": {
     "full": {
       "format": "webp",
@@ -22,9 +22,9 @@
     }
   },
   "totals": {
-    "fullBytes": 9137778,
-    "thumbnailBytes": 2818062,
-    "combinedBytes": 11955840
+    "fullBytes": 9196892,
+    "thumbnailBytes": 2836654,
+    "combinedBytes": 12033546
   },
   "products": {
     "109740192581": {
@@ -14414,6 +14414,87 @@
           "thumbnailHeight": 480,
           "fullBytes": 6304,
           "thumbnailBytes": 2396
+        }
+      ]
+    },
+    "264788890155": {
+      "title": "Lorenzo Pazzaglia Lorenzo Pazzaglia Cherry Ink",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/264788890155-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/264788890155-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/264788890155-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/264788890155-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "264788890155-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/264788890155-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/264788890155-01.webp",
+          "fullPath": "catalog-full/264788890155-01.webp",
+          "thumbnailPath": "catalog-thumbs/264788890155-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 21448,
+          "thumbnailBytes": 5710
+        }
+      ]
+    },
+    "526636592241": {
+      "title": "Amouage Amouage Lyric Woman",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/526636592241-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/526636592241-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/526636592241-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/526636592241-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "526636592241-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/526636592241-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/526636592241-01.webp",
+          "fullPath": "catalog-full/526636592241-01.webp",
+          "thumbnailPath": "catalog-thumbs/526636592241-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 15222,
+          "thumbnailBytes": 5342
+        }
+      ]
+    },
+    "637594940188": {
+      "title": "Memo Memo Winter Palace",
+      "image": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/637594940188-01.webp",
+      "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/637594940188-01.webp",
+      "images": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/637594940188-01.webp"
+      ],
+      "thumbnails": [
+        "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/637594940188-01.webp"
+      ],
+      "files": [
+        {
+          "order": 1,
+          "fileName": "637594940188-01.webp",
+          "full": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-full/637594940188-01.webp",
+          "thumbnail": "https://raw.githubusercontent.com/nikitabratischev/files/main/catalog-images/catalog-thumbs/637594940188-01.webp",
+          "fullPath": "catalog-full/637594940188-01.webp",
+          "thumbnailPath": "catalog-thumbs/637594940188-01.webp",
+          "width": 658,
+          "height": 877,
+          "thumbnailWidth": 360,
+          "thumbnailHeight": 480,
+          "fullBytes": 22444,
+          "thumbnailBytes": 7540
         }
       ]
     }
